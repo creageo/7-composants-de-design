@@ -1,16 +1,18 @@
 # 7-composants-de-design
 
+layout 1
+
 code utilisé : html css sass
 
 outil utilisé : sublimetext koala
 
-complément : 
+complément : /
 
-code valide : non
+code valide : /
 
-non-voyants : non
+non-voyants : /
 
-sanitizé et validé : non
+sanitizé et validé : /
 
 responsive : non
 
