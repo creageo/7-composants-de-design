@@ -1,0 +1,74 @@
+.banner {
+  font-family: helvetica;
+  font-size: x-small;
+  background-color: sandybrown;
+  width: 800px;
+  height: 75px;
+  margin: 0 auto; }
+
+.parent {
+  display: inline-block;
+  width: 400px;
+  height: 75px; }
+
+.ban1 {
+  display: inline-block;
+  width: 400px;
+  height: 75px;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  justify-content: center; }
+
+.ban2 {
+  display: inline-block;
+  width: 50px;
+  text-align: center; }
+
+.ban3 {
+  display: inline-block;
+  width: 50px;
+  text-align: center; }
+
+.ban4 {
+  display: inline-block;
+  width: 75px;
+  text-align: center; }
+
+.ban5 {
+  display: inline-block;
+  width: 50px;
+  text-align: center; }
+
+.ban6 {
+  display: inline-block;
+  width: 50px;
+  text-align: center; }
+
+.ban7 {
+  display: inline-block;
+  width: 50px;
+  text-align: center; }
+
+.ban8 {
+  display: inline-block;
+  width: 50px;
+  text-align: center; }
+
+.img1 {
+  width: 15px;
+  height: 15px; }
+
+.img2 {
+  width: 15px;
+  height: 15px; }
+
+.img3 {
+  width: 15px;
+  height: 15px; }
+
+.img4 {
+  width: 15px;
+  height: 15px; }
+
+/*# sourceMappingURL=theme.css.map */
