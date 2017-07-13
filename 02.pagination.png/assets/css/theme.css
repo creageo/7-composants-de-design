@@ -1,0 +1,30 @@
+.principale {
+  display: flex;
+  width: 900px;
+  height: 50px;
+  margin: 10px auto;
+  background-color: lightgray; }
+
+.seconde {
+  width: 90px;
+  height: 40px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border-radius: 15px;
+  background-color: gray;
+  margin: 5px; }
+
+.seconde69 {
+  width: 90px;
+  height: 40px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border-radius: 15px;
+  background-color: blue;
+  margin: 5px; }
+
+/*# sourceMappingURL=theme.css.map */
