@@ -1,0 +1,39 @@
+.p2{
+	width: 810px;
+	margin: 10px auto;
+	border: solid 1px black;
+}
+
+.principale{
+	display: flex;
+	width: 800px;
+	height: 100px;
+	margin: 10px auto;
+}
+
+.seconde{
+	width: 200px;
+	height: 100px;
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+img{
+	width: 200px;
+	height: 100px;
+}
+
+.seconde2{
+	width: 200px;
+	height: 100px;
+	text-align: left;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.pv{
+	color: green;
+}

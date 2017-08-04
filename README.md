@@ -59,3 +59,23 @@ responsive : non
 exercice : https://github.com/becodeorg/BXLCentral/blob/master/Projects/7-composants-de-design/02.pagination.png
 
 mon évaluation sur 10 : 6/10
+
+layout 3
+
+code utilisé : html css sass
+
+outil utilisé : sublimetext koala
+
+complément : /
+
+code valide : non
+
+non-voyants : /
+
+sanitizé et validé : /
+
+responsive : non
+
+exercice : https://github.com/becodeorg/BXLCentral/blob/master/Projects/7-composants-de-design/03.zone-benefits-grid.png
+
+mon évaluation sur 10 : 6/10
