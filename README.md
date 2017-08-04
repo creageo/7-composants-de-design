@@ -2,7 +2,7 @@
 
 layout 0
 
-code utilisé : html css sass flexbox
+code utilisé : html css sass
 
 outil utilisé : sublimetext koala
 
@@ -22,7 +22,7 @@ mon évaluation sur 10 : 6/10
 
 layout 1
 
-code utilisé : html css sass flexbox
+code utilisé : html css sass
 
 outil utilisé : sublimetext koala
 
