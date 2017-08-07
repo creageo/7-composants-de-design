@@ -119,3 +119,23 @@ responsive : non
 exercice : https://github.com/becodeorg/BXLCentral/blob/master/Projects/7-composants-de-design/05.zone-CTA.png
 
 mon évaluation sur 10 : 6/10
+
+layout 6
+
+code utilisé : html css sass flexbox
+
+outil utilisé : sublimetext koala
+
+complément : /
+
+code valide : non
+
+non-voyants : /
+
+sanitizé et validé : /
+
+responsive : non
+
+exercice : https://github.com/becodeorg/BXLCentral/blob/master/Projects/7-composants-de-design/06.zone-hero.png
+
+mon évaluation sur 10 : 6/10
